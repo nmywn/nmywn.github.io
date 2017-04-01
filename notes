@@ -1,0 +1,26 @@
+[MPA] events market.
+Feedprice relying on the outcome of events. Each event can have multiple outcomes determined earlier.
+
+Minimum requirements to start this market would be:
+
+Simple website with shedule of events, MPA with link to that website in description, abillity to provide new feedprice after each event, marketing skills.
+Detailed info could be also provided by updating asset description but this cost to much - Basic: 734 Lifetime: 147 BTS
+
+Minimum info provided by website, should be:
+
+Price: [current price feed]
+Event traded now: [name of event] [Date of event]
+     
+     possible outcomes:
+                       outcome A: feedprice +5% 
+                       outcome B: feedprice -5%
+                       outcome C: feedprice +2%
+                       outcome D: feedprice -2%
+Next events in queue: 
+ 
+Event 2: [Date of event] [possible outcomes]
+Event 3: [Date of event] [possible outcomes]
+...
+Event 10: [Date of event] [possible outcomes]
+
+//constant number of events in queue that after publishing can't change order, or possible outcomes.
